@@ -9,3 +9,7 @@ $ npm install fecs -g
 $ git clone https://github.com/xuexb/sublime-fecs.git
 $ cp -rf ./sublime-fecs/* %sublime packages%/fecs/
 ```
+
+## links
+
+* [fecs](https://github.com/ecomfe/fecs)
