@@ -1,0 +1,6 @@
+[{
+  "keys": ["super+j"], "command": "fecs_check"
+},
+{
+  "keys": ["super+k"], "command": "fecs_format"
+}]

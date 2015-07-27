@@ -1,0 +1,8 @@
+[{
+  "caption": "fecs check",
+  "command": "fecs_check"
+},
+{
+  "caption": "fecs format",
+  "command": "fecs_format"
+}]

@@ -1,0 +1,6 @@
+[{
+  "keys": ["alt+j"], "command": "fecs_check"
+},
+{
+  "keys": ["alt+k"], "command": "fecs_format"
+}]

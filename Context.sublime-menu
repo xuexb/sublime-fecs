@@ -1,0 +1,18 @@
+[
+    { "caption": "-" },
+    {
+        "id": "fecs",
+        "caption": "fecs",
+        "children":
+        [
+            {
+                "caption": "check",
+                "command": "fecs_check",
+            },
+            {
+                "caption": "format",
+                "command": "fecs_format",
+            }
+        ]
+    }
+]
