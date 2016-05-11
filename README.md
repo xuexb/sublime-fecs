@@ -5,9 +5,14 @@
 ## install
 
 ```
+# 全局安装fecs
 $ npm install fecs -g
+
+# 克隆项目到本地
 $ git clone https://github.com/xuexb/sublime-fecs.git
-$ cp -rf ./sublime-fecs/* %sublime packages%/fecs/
+
+# 复制文件到sublime包配置里，路径自动查找下
+$ cp -rf ./sublime-fecs/* sublime插件包目录/fecs/
 ```
 
 ## links
