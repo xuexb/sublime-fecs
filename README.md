@@ -15,6 +15,8 @@ $ git clone https://github.com/xuexb/sublime-fecs.git
 $ cp -rf ./sublime-fecs/* sublime插件包目录/fecs/
 ```
 
+快捷键请查看`./*.sublime-keymap`
+
 ## links
 
 * [fecs](https://github.com/ecomfe/fecs)
