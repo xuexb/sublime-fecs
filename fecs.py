@@ -10,7 +10,8 @@ class fecsCheckCommand(sublime_plugin.TextCommand):
             "cmd": [
                 "fecs",
                 filepath,
-                "--reporter=baidu"
+                "--reporter=baidu",
+                "--rule"
             ],
             "file_regex": r"fecs: (.+)\]",
             "line_regex": r"(\d+),(\d+): (.*)$"
